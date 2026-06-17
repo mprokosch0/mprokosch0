@@ -65,6 +65,8 @@ Currently studying at 42, aiming to specialize myself in low-level development w
 | Project | Description |
 |---------|--------------|
 | [ft_ls](https://github.com/mprokosch0/ft_ls) | Reimplementation of the `ls` command in C |
+| [ft_nm](https://github.com/mprokosch0/ft_nm) | Reimplementation of the `nm` command in C |
+| [ft_readline](https://github.com/mprokosch0/ft_readline) | Reimplementation of the C-function readline |
  
 ### Collaborative
  
