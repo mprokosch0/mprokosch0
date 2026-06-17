@@ -76,14 +76,7 @@ Currently studying at 42, aiming to specialize myself in low-level development w
 | [DungeonNoDragon](https://github.com/Anicet78/DungeonNoDragon) | Full-stack web application — Roguelike online multiplayer game with user authentication, user profile, user interaction and matchmaking |
  
 ---
- 
-## Skills
- 
-**Languages** — C, C++, Bash
-**Systems** — Linux, embedded systems (microcontrollers)
-**Tools** — Git, Makefile, SDL
- 
----
+
  
 ## Contact
  
